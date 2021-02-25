@@ -45,3 +45,5 @@
   	- Launch the iPhone simulator by either:
         - select `Run on Android simulator` from the `Expo client` browser window on port `http://localhost:19002/`
         - pressing `a` from the terminal window after starting project
+
+### Design
